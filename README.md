@@ -1,5 +1,5 @@
 # Strings-Letter-Count
-letters-counts.js file can be used as plug-in to find the each letter count in String.
+js/letters-counts.js file can be used as plug-in to find the each letter count in String.
 
 Please Note: 
   By default provided "lettersCount()" function will return case sensitive results. 
