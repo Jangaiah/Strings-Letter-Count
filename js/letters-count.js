@@ -15,5 +15,5 @@ String.prototype.lettersCount = function(){
  } 
  var retStr = "";
  for(let x in countObj) retStr += x+ "="+countObj[x]+" "; 
- return retStr;
+ return retStr.trim();
 }
